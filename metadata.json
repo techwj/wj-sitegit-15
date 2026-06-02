@@ -1,0 +1,59 @@
+{
+  "siteId": "party-food-recipes",
+  "generatedAt": "2026-06-02T15:38:11.853045",
+  "categories": [
+    "beginner-party-food-recipes",
+    "advanced-party-food-recipes",
+    "tips-party-food-recipes",
+    "history-party-food-recipes",
+    "trending-party-food-recipes",
+    "tutorials-party-food-recipes"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-party-food-recipes",
+      "category_name": "Beginner Party Food Recipes"
+    },
+    {
+      "category_slug": "advanced-party-food-recipes",
+      "category_name": "Advanced Party Food Recipes"
+    },
+    {
+      "category_slug": "tips-party-food-recipes",
+      "category_name": "Party Food Recipes Tips"
+    },
+    {
+      "category_slug": "history-party-food-recipes",
+      "category_name": "Party Food Recipes History"
+    },
+    {
+      "category_slug": "trending-party-food-recipes",
+      "category_name": "Trending Party Food Recipes"
+    },
+    {
+      "category_slug": "tutorials-party-food-recipes",
+      "category_name": "Party Food Recipes Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "party-food-recipes",
+    "color_scheme": {
+      "name": "Purple Dream",
+      "primary": "#6b21a8",
+      "secondary": "#a855f7",
+      "accent": "#d8b4fe",
+      "background": "#faf5ff",
+      "text": "#581c87",
+      "light": "#f3e8ff"
+    },
+    "font": {
+      "family": "'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif",
+      "heading": "'Segoe UI'",
+      "body": "Roboto"
+    },
+    "layout": "centered",
+    "site_title": "Party Food Recipes Central",
+    "articles_per_row": 4
+  }
+}

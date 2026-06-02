@@ -1,0 +1,88 @@
+# Validation Report - party-food-recipes
+
+Generated: 2026-06-02T15:38:11.852768
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: The Ultimate Guide to Beginner Party Food Recipes
+- ✓ Article word count OK: Beginner Party Food Recipes: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner Party Food Recipes
+- ✓ Article word count OK: Beginner Party Food Recipes Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner Party Food Recipes
+- ✓ Article word count OK: Beginner Party Food Recipes in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner Party Food Recipes
+- ✓ Article word count OK: Common Mistakes in Beginner Party Food Recipes
+- ✓ Article word count OK: Beginner Party Food Recipes for Beginners
+- ✓ Article word count OK: Advanced Beginner Party Food Recipes Techniques
+- ✓ Article word count OK: The Ultimate Guide to Advanced Party Food Recipes
+- ✓ Article word count OK: Advanced Party Food Recipes: Everything You Need to Know
+- ✓ Article word count OK: Understanding Advanced Party Food Recipes
+- ✓ Article word count OK: Advanced Party Food Recipes Tips and Best Practices
+- ✓ Article word count OK: The History of Advanced Party Food Recipes
+- ✓ Article word count OK: Advanced Party Food Recipes in 2026: Current Trends
+- ✓ Article word count OK: Future of Advanced Party Food Recipes
+- ✓ Article word count OK: Common Mistakes in Advanced Party Food Recipes
+- ✓ Article word count OK: Advanced Party Food Recipes for Beginners
+- ✓ Article word count OK: Advanced Advanced Party Food Recipes Techniques
+- ✓ Article word count OK: The Ultimate Guide to Party Food Recipes Tips
+- ✓ Article word count OK: Party Food Recipes Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding Party Food Recipes Tips
+- ✓ Article word count OK: Party Food Recipes Tips Tips and Best Practices
+- ✓ Article word count OK: The History of Party Food Recipes Tips
+- ✓ Article word count OK: Party Food Recipes Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of Party Food Recipes Tips
+- ✓ Article word count OK: Common Mistakes in Party Food Recipes Tips
+- ✓ Article word count OK: Party Food Recipes Tips for Beginners
+- ✓ Article word count OK: Advanced Party Food Recipes Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to Party Food Recipes History
+- ✓ Article word count OK: Party Food Recipes History: Everything You Need to Know
+- ✓ Article word count OK: Understanding Party Food Recipes History
+- ✓ Article word count OK: Party Food Recipes History Tips and Best Practices
+- ✓ Article word count OK: The History of Party Food Recipes History
+- ✓ Article word count OK: Party Food Recipes History in 2026: Current Trends
+- ✓ Article word count OK: Future of Party Food Recipes History
+- ✓ Article word count OK: Common Mistakes in Party Food Recipes History
+- ✓ Article word count OK: Party Food Recipes History for Beginners
+- ✓ Article word count OK: Advanced Party Food Recipes History Techniques
+- ✓ Article word count OK: The Ultimate Guide to Trending Party Food Recipes
+- ✓ Article word count OK: Trending Party Food Recipes: Everything You Need to Know
+- ✓ Article word count OK: Understanding Trending Party Food Recipes
+- ✓ Article word count OK: Trending Party Food Recipes Tips and Best Practices
+- ✓ Article word count OK: The History of Trending Party Food Recipes
+- ✓ Article word count OK: Trending Party Food Recipes in 2026: Current Trends
+- ✓ Article word count OK: Future of Trending Party Food Recipes
+- ✓ Article word count OK: Common Mistakes in Trending Party Food Recipes
+- ✓ Article word count OK: Trending Party Food Recipes for Beginners
+- ✓ Article word count OK: Advanced Trending Party Food Recipes Techniques
+- ✓ Article word count OK: The Ultimate Guide to Party Food Recipes Tutorials
+- ✓ Article word count OK: Party Food Recipes Tutorials: Everything You Need to Know
+- ✓ Article word count OK: Understanding Party Food Recipes Tutorials
+- ✓ Article word count OK: Party Food Recipes Tutorials Tips and Best Practices
+- ✓ Article word count OK: The History of Party Food Recipes Tutorials
+- ✓ Article word count OK: Party Food Recipes Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Future of Party Food Recipes Tutorials
+- ✓ Article word count OK: Common Mistakes in Party Food Recipes Tutorials
+- ✓ Article word count OK: Party Food Recipes Tutorials for Beginners
+- ✓ Article word count OK: Advanced Party Food Recipes Tutorials Techniques
+- ✓ Ad configuration validated

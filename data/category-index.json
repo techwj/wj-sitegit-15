@@ -1,0 +1,794 @@
+{
+  "beginner-party-food-recipes": [
+    {
+      "id": 1,
+      "slug": "the-ultimate-guide-to-beginner-party-food-recipes",
+      "title": "The Ultimate Guide to Beginner Party Food Recipes",
+      "created_at": "2026-06-02T15:38:11.806254",
+      "image": {
+        "id": "0291347315021950a1ac1f86aaea74ac47059cff42676269bf6112f902a645d0",
+        "url": "https://picsum.photos/1125/446?random=705",
+        "alt": "Featured image for: The Ultimate Guide to Beginner Party Food Recipes",
+        "width": 1125,
+        "height": 446
+      }
+    },
+    {
+      "id": 2,
+      "slug": "beginner-party-food-recipes-everything-you-need-to-know",
+      "title": "Beginner Party Food Recipes: Everything You Need to Know",
+      "created_at": "2026-06-02T15:38:11.806327",
+      "image": {
+        "id": "9d2441344bf0e90770098be825c532f81cfd7af672a7b87277ddd9e3462b0a0b",
+        "url": "https://picsum.photos/893/554?random=129",
+        "alt": "Featured image for: Beginner Party Food Recipes: Everything You Need to Know",
+        "width": 893,
+        "height": 554
+      }
+    },
+    {
+      "id": 3,
+      "slug": "understanding-beginner-party-food-recipes",
+      "title": "Understanding Beginner Party Food Recipes",
+      "created_at": "2026-06-02T15:38:11.806369",
+      "image": {
+        "id": "e7f9ab133d130d3954a1bfcf32431be9d5944e1cc7ed8f7283f860e8dcccb585",
+        "url": "https://picsum.photos/1110/466?random=746",
+        "alt": "Featured image for: Understanding Beginner Party Food Recipes",
+        "width": 1110,
+        "height": 466
+      }
+    },
+    {
+      "id": 4,
+      "slug": "beginner-party-food-recipes-tips-and-best-practices",
+      "title": "Beginner Party Food Recipes Tips and Best Practices",
+      "created_at": "2026-06-02T15:38:11.806405",
+      "image": {
+        "id": "c761c8ce006c71d9b78ef1d233bb1f6b8a8f8e595f43d16d66ff1e0333b5406d",
+        "url": "https://picsum.photos/894/411?random=555",
+        "alt": "Featured image for: Beginner Party Food Recipes Tips and Best Practices",
+        "width": 894,
+        "height": 411
+      }
+    },
+    {
+      "id": 5,
+      "slug": "the-history-of-beginner-party-food-recipes",
+      "title": "The History of Beginner Party Food Recipes",
+      "created_at": "2026-06-02T15:38:11.806444",
+      "image": {
+        "id": "8e561befb6759e4ff32f23af5817c5b4d7cd210a2246debc17d403d582c5dcfb",
+        "url": "https://picsum.photos/903/426?random=28",
+        "alt": "Featured image for: The History of Beginner Party Food Recipes",
+        "width": 903,
+        "height": 426
+      }
+    },
+    {
+      "id": 6,
+      "slug": "beginner-party-food-recipes-in-2026-current-trends",
+      "title": "Beginner Party Food Recipes in 2026: Current Trends",
+      "created_at": "2026-06-02T15:38:11.806482",
+      "image": {
+        "id": "9d2441344bf0e90770098be825c532f81cfd7af672a7b87277ddd9e3462b0a0b",
+        "url": "https://picsum.photos/893/554?random=129",
+        "alt": "Featured image for: Beginner Party Food Recipes in 2026: Current Trends",
+        "width": 893,
+        "height": 554
+      }
+    },
+    {
+      "id": 7,
+      "slug": "future-of-beginner-party-food-recipes",
+      "title": "Future of Beginner Party Food Recipes",
+      "created_at": "2026-06-02T15:38:11.806518",
+      "image": {
+        "id": "8e561befb6759e4ff32f23af5817c5b4d7cd210a2246debc17d403d582c5dcfb",
+        "url": "https://picsum.photos/903/426?random=28",
+        "alt": "Featured image for: Future of Beginner Party Food Recipes",
+        "width": 903,
+        "height": 426
+      }
+    },
+    {
+      "id": 8,
+      "slug": "common-mistakes-in-beginner-party-food-recipes",
+      "title": "Common Mistakes in Beginner Party Food Recipes",
+      "created_at": "2026-06-02T15:38:11.806552",
+      "image": {
+        "id": "8e561befb6759e4ff32f23af5817c5b4d7cd210a2246debc17d403d582c5dcfb",
+        "url": "https://picsum.photos/903/426?random=28",
+        "alt": "Featured image for: Common Mistakes in Beginner Party Food Recipes",
+        "width": 903,
+        "height": 426
+      }
+    },
+    {
+      "id": 9,
+      "slug": "beginner-party-food-recipes-for-beginners",
+      "title": "Beginner Party Food Recipes for Beginners",
+      "created_at": "2026-06-02T15:38:11.806588",
+      "image": {
+        "id": "0291347315021950a1ac1f86aaea74ac47059cff42676269bf6112f902a645d0",
+        "url": "https://picsum.photos/1125/446?random=705",
+        "alt": "Featured image for: Beginner Party Food Recipes for Beginners",
+        "width": 1125,
+        "height": 446
+      }
+    },
+    {
+      "id": 10,
+      "slug": "advanced-beginner-party-food-recipes-techniques",
+      "title": "Advanced Beginner Party Food Recipes Techniques",
+      "created_at": "2026-06-02T15:38:11.806622",
+      "image": {
+        "id": "e7f9ab133d130d3954a1bfcf32431be9d5944e1cc7ed8f7283f860e8dcccb585",
+        "url": "https://picsum.photos/1110/466?random=746",
+        "alt": "Featured image for: Advanced Beginner Party Food Recipes Techniques",
+        "width": 1110,
+        "height": 466
+      }
+    }
+  ],
+  "advanced-party-food-recipes": [
+    {
+      "id": 19,
+      "slug": "the-ultimate-guide-to-advanced-party-food-recipes",
+      "title": "The Ultimate Guide to Advanced Party Food Recipes",
+      "created_at": "2026-06-02T15:38:11.806931",
+      "image": {
+        "id": "0291347315021950a1ac1f86aaea74ac47059cff42676269bf6112f902a645d0",
+        "url": "https://picsum.photos/1125/446?random=705",
+        "alt": "Featured image for: The Ultimate Guide to Advanced Party Food Recipes",
+        "width": 1125,
+        "height": 446
+      }
+    },
+    {
+      "id": 20,
+      "slug": "advanced-party-food-recipes-everything-you-need-to-know",
+      "title": "Advanced Party Food Recipes: Everything You Need to Know",
+      "created_at": "2026-06-02T15:38:11.806965",
+      "image": {
+        "id": "e7f9ab133d130d3954a1bfcf32431be9d5944e1cc7ed8f7283f860e8dcccb585",
+        "url": "https://picsum.photos/1110/466?random=746",
+        "alt": "Featured image for: Advanced Party Food Recipes: Everything You Need to Know",
+        "width": 1110,
+        "height": 466
+      }
+    },
+    {
+      "id": 21,
+      "slug": "understanding-advanced-party-food-recipes",
+      "title": "Understanding Advanced Party Food Recipes",
+      "created_at": "2026-06-02T15:38:11.807000",
+      "image": {
+        "id": "c761c8ce006c71d9b78ef1d233bb1f6b8a8f8e595f43d16d66ff1e0333b5406d",
+        "url": "https://picsum.photos/894/411?random=555",
+        "alt": "Featured image for: Understanding Advanced Party Food Recipes",
+        "width": 894,
+        "height": 411
+      }
+    },
+    {
+      "id": 22,
+      "slug": "advanced-party-food-recipes-tips-and-best-practices",
+      "title": "Advanced Party Food Recipes Tips and Best Practices",
+      "created_at": "2026-06-02T15:38:11.807034",
+      "image": {
+        "id": "0291347315021950a1ac1f86aaea74ac47059cff42676269bf6112f902a645d0",
+        "url": "https://picsum.photos/1125/446?random=705",
+        "alt": "Featured image for: Advanced Party Food Recipes Tips and Best Practices",
+        "width": 1125,
+        "height": 446
+      }
+    },
+    {
+      "id": 23,
+      "slug": "the-history-of-advanced-party-food-recipes",
+      "title": "The History of Advanced Party Food Recipes",
+      "created_at": "2026-06-02T15:38:11.807069",
+      "image": {
+        "id": "8e561befb6759e4ff32f23af5817c5b4d7cd210a2246debc17d403d582c5dcfb",
+        "url": "https://picsum.photos/903/426?random=28",
+        "alt": "Featured image for: The History of Advanced Party Food Recipes",
+        "width": 903,
+        "height": 426
+      }
+    },
+    {
+      "id": 24,
+      "slug": "advanced-party-food-recipes-in-2026-current-trends",
+      "title": "Advanced Party Food Recipes in 2026: Current Trends",
+      "created_at": "2026-06-02T15:38:11.807104",
+      "image": {
+        "id": "9d2441344bf0e90770098be825c532f81cfd7af672a7b87277ddd9e3462b0a0b",
+        "url": "https://picsum.photos/893/554?random=129",
+        "alt": "Featured image for: Advanced Party Food Recipes in 2026: Current Trends",
+        "width": 893,
+        "height": 554
+      }
+    },
+    {
+      "id": 25,
+      "slug": "future-of-advanced-party-food-recipes",
+      "title": "Future of Advanced Party Food Recipes",
+      "created_at": "2026-06-02T15:38:11.807139",
+      "image": {
+        "id": "0291347315021950a1ac1f86aaea74ac47059cff42676269bf6112f902a645d0",
+        "url": "https://picsum.photos/1125/446?random=705",
+        "alt": "Featured image for: Future of Advanced Party Food Recipes",
+        "width": 1125,
+        "height": 446
+      }
+    },
+    {
+      "id": 26,
+      "slug": "common-mistakes-in-advanced-party-food-recipes",
+      "title": "Common Mistakes in Advanced Party Food Recipes",
+      "created_at": "2026-06-02T15:38:11.807172",
+      "image": {
+        "id": "c761c8ce006c71d9b78ef1d233bb1f6b8a8f8e595f43d16d66ff1e0333b5406d",
+        "url": "https://picsum.photos/894/411?random=555",
+        "alt": "Featured image for: Common Mistakes in Advanced Party Food Recipes",
+        "width": 894,
+        "height": 411
+      }
+    },
+    {
+      "id": 27,
+      "slug": "advanced-party-food-recipes-for-beginners",
+      "title": "Advanced Party Food Recipes for Beginners",
+      "created_at": "2026-06-02T15:38:11.807205",
+      "image": {
+        "id": "e7f9ab133d130d3954a1bfcf32431be9d5944e1cc7ed8f7283f860e8dcccb585",
+        "url": "https://picsum.photos/1110/466?random=746",
+        "alt": "Featured image for: Advanced Party Food Recipes for Beginners",
+        "width": 1110,
+        "height": 466
+      }
+    },
+    {
+      "id": 28,
+      "slug": "advanced-advanced-party-food-recipes-techniques",
+      "title": "Advanced Advanced Party Food Recipes Techniques",
+      "created_at": "2026-06-02T15:38:11.807238",
+      "image": {
+        "id": "8e561befb6759e4ff32f23af5817c5b4d7cd210a2246debc17d403d582c5dcfb",
+        "url": "https://picsum.photos/903/426?random=28",
+        "alt": "Featured image for: Advanced Advanced Party Food Recipes Techniques",
+        "width": 903,
+        "height": 426
+      }
+    }
+  ],
+  "tips-party-food-recipes": [
+    {
+      "id": 37,
+      "slug": "the-ultimate-guide-to-party-food-recipes-tips",
+      "title": "The Ultimate Guide to Party Food Recipes Tips",
+      "created_at": "2026-06-02T15:38:11.807539",
+      "image": {
+        "id": "9d2441344bf0e90770098be825c532f81cfd7af672a7b87277ddd9e3462b0a0b",
+        "url": "https://picsum.photos/893/554?random=129",
+        "alt": "Featured image for: The Ultimate Guide to Party Food Recipes Tips",
+        "width": 893,
+        "height": 554
+      }
+    },
+    {
+      "id": 38,
+      "slug": "party-food-recipes-tips-everything-you-need-to-know",
+      "title": "Party Food Recipes Tips: Everything You Need to Know",
+      "created_at": "2026-06-02T15:38:11.807573",
+      "image": {
+        "id": "0291347315021950a1ac1f86aaea74ac47059cff42676269bf6112f902a645d0",
+        "url": "https://picsum.photos/1125/446?random=705",
+        "alt": "Featured image for: Party Food Recipes Tips: Everything You Need to Know",
+        "width": 1125,
+        "height": 446
+      }
+    },
+    {
+      "id": 39,
+      "slug": "understanding-party-food-recipes-tips",
+      "title": "Understanding Party Food Recipes Tips",
+      "created_at": "2026-06-02T15:38:11.807607",
+      "image": {
+        "id": "c761c8ce006c71d9b78ef1d233bb1f6b8a8f8e595f43d16d66ff1e0333b5406d",
+        "url": "https://picsum.photos/894/411?random=555",
+        "alt": "Featured image for: Understanding Party Food Recipes Tips",
+        "width": 894,
+        "height": 411
+      }
+    },
+    {
+      "id": 40,
+      "slug": "party-food-recipes-tips-tips-and-best-practices",
+      "title": "Party Food Recipes Tips Tips and Best Practices",
+      "created_at": "2026-06-02T15:38:11.807640",
+      "image": {
+        "id": "9d2441344bf0e90770098be825c532f81cfd7af672a7b87277ddd9e3462b0a0b",
+        "url": "https://picsum.photos/893/554?random=129",
+        "alt": "Featured image for: Party Food Recipes Tips Tips and Best Practices",
+        "width": 893,
+        "height": 554
+      }
+    },
+    {
+      "id": 41,
+      "slug": "the-history-of-party-food-recipes-tips",
+      "title": "The History of Party Food Recipes Tips",
+      "created_at": "2026-06-02T15:38:11.807677",
+      "image": {
+        "id": "e7f9ab133d130d3954a1bfcf32431be9d5944e1cc7ed8f7283f860e8dcccb585",
+        "url": "https://picsum.photos/1110/466?random=746",
+        "alt": "Featured image for: The History of Party Food Recipes Tips",
+        "width": 1110,
+        "height": 466
+      }
+    },
+    {
+      "id": 42,
+      "slug": "party-food-recipes-tips-in-2026-current-trends",
+      "title": "Party Food Recipes Tips in 2026: Current Trends",
+      "created_at": "2026-06-02T15:38:11.807712",
+      "image": {
+        "id": "9d2441344bf0e90770098be825c532f81cfd7af672a7b87277ddd9e3462b0a0b",
+        "url": "https://picsum.photos/893/554?random=129",
+        "alt": "Featured image for: Party Food Recipes Tips in 2026: Current Trends",
+        "width": 893,
+        "height": 554
+      }
+    },
+    {
+      "id": 43,
+      "slug": "future-of-party-food-recipes-tips",
+      "title": "Future of Party Food Recipes Tips",
+      "created_at": "2026-06-02T15:38:11.807745",
+      "image": {
+        "id": "c761c8ce006c71d9b78ef1d233bb1f6b8a8f8e595f43d16d66ff1e0333b5406d",
+        "url": "https://picsum.photos/894/411?random=555",
+        "alt": "Featured image for: Future of Party Food Recipes Tips",
+        "width": 894,
+        "height": 411
+      }
+    },
+    {
+      "id": 44,
+      "slug": "common-mistakes-in-party-food-recipes-tips",
+      "title": "Common Mistakes in Party Food Recipes Tips",
+      "created_at": "2026-06-02T15:38:11.807779",
+      "image": {
+        "id": "0291347315021950a1ac1f86aaea74ac47059cff42676269bf6112f902a645d0",
+        "url": "https://picsum.photos/1125/446?random=705",
+        "alt": "Featured image for: Common Mistakes in Party Food Recipes Tips",
+        "width": 1125,
+        "height": 446
+      }
+    },
+    {
+      "id": 45,
+      "slug": "party-food-recipes-tips-for-beginners",
+      "title": "Party Food Recipes Tips for Beginners",
+      "created_at": "2026-06-02T15:38:11.807813",
+      "image": {
+        "id": "c761c8ce006c71d9b78ef1d233bb1f6b8a8f8e595f43d16d66ff1e0333b5406d",
+        "url": "https://picsum.photos/894/411?random=555",
+        "alt": "Featured image for: Party Food Recipes Tips for Beginners",
+        "width": 894,
+        "height": 411
+      }
+    },
+    {
+      "id": 46,
+      "slug": "advanced-party-food-recipes-tips-techniques",
+      "title": "Advanced Party Food Recipes Tips Techniques",
+      "created_at": "2026-06-02T15:38:11.807847",
+      "image": {
+        "id": "e7f9ab133d130d3954a1bfcf32431be9d5944e1cc7ed8f7283f860e8dcccb585",
+        "url": "https://picsum.photos/1110/466?random=746",
+        "alt": "Featured image for: Advanced Party Food Recipes Tips Techniques",
+        "width": 1110,
+        "height": 466
+      }
+    }
+  ],
+  "history-party-food-recipes": [
+    {
+      "id": 55,
+      "slug": "the-ultimate-guide-to-party-food-recipes-history",
+      "title": "The Ultimate Guide to Party Food Recipes History",
+      "created_at": "2026-06-02T15:38:11.808153",
+      "image": {
+        "id": "9d2441344bf0e90770098be825c532f81cfd7af672a7b87277ddd9e3462b0a0b",
+        "url": "https://picsum.photos/893/554?random=129",
+        "alt": "Featured image for: The Ultimate Guide to Party Food Recipes History",
+        "width": 893,
+        "height": 554
+      }
+    },
+    {
+      "id": 56,
+      "slug": "party-food-recipes-history-everything-you-need-to-know",
+      "title": "Party Food Recipes History: Everything You Need to Know",
+      "created_at": "2026-06-02T15:38:11.808187",
+      "image": {
+        "id": "9d2441344bf0e90770098be825c532f81cfd7af672a7b87277ddd9e3462b0a0b",
+        "url": "https://picsum.photos/893/554?random=129",
+        "alt": "Featured image for: Party Food Recipes History: Everything You Need to Know",
+        "width": 893,
+        "height": 554
+      }
+    },
+    {
+      "id": 57,
+      "slug": "understanding-party-food-recipes-history",
+      "title": "Understanding Party Food Recipes History",
+      "created_at": "2026-06-02T15:38:11.808223",
+      "image": {
+        "id": "8e561befb6759e4ff32f23af5817c5b4d7cd210a2246debc17d403d582c5dcfb",
+        "url": "https://picsum.photos/903/426?random=28",
+        "alt": "Featured image for: Understanding Party Food Recipes History",
+        "width": 903,
+        "height": 426
+      }
+    },
+    {
+      "id": 58,
+      "slug": "party-food-recipes-history-tips-and-best-practices",
+      "title": "Party Food Recipes History Tips and Best Practices",
+      "created_at": "2026-06-02T15:38:11.808256",
+      "image": {
+        "id": "0291347315021950a1ac1f86aaea74ac47059cff42676269bf6112f902a645d0",
+        "url": "https://picsum.photos/1125/446?random=705",
+        "alt": "Featured image for: Party Food Recipes History Tips and Best Practices",
+        "width": 1125,
+        "height": 446
+      }
+    },
+    {
+      "id": 59,
+      "slug": "the-history-of-party-food-recipes-history",
+      "title": "The History of Party Food Recipes History",
+      "created_at": "2026-06-02T15:38:11.808290",
+      "image": {
+        "id": "9d2441344bf0e90770098be825c532f81cfd7af672a7b87277ddd9e3462b0a0b",
+        "url": "https://picsum.photos/893/554?random=129",
+        "alt": "Featured image for: The History of Party Food Recipes History",
+        "width": 893,
+        "height": 554
+      }
+    },
+    {
+      "id": 60,
+      "slug": "party-food-recipes-history-in-2026-current-trends",
+      "title": "Party Food Recipes History in 2026: Current Trends",
+      "created_at": "2026-06-02T15:38:11.808324",
+      "image": {
+        "id": "0291347315021950a1ac1f86aaea74ac47059cff42676269bf6112f902a645d0",
+        "url": "https://picsum.photos/1125/446?random=705",
+        "alt": "Featured image for: Party Food Recipes History in 2026: Current Trends",
+        "width": 1125,
+        "height": 446
+      }
+    },
+    {
+      "id": 61,
+      "slug": "future-of-party-food-recipes-history",
+      "title": "Future of Party Food Recipes History",
+      "created_at": "2026-06-02T15:38:11.808361",
+      "image": {
+        "id": "c761c8ce006c71d9b78ef1d233bb1f6b8a8f8e595f43d16d66ff1e0333b5406d",
+        "url": "https://picsum.photos/894/411?random=555",
+        "alt": "Featured image for: Future of Party Food Recipes History",
+        "width": 894,
+        "height": 411
+      }
+    },
+    {
+      "id": 62,
+      "slug": "common-mistakes-in-party-food-recipes-history",
+      "title": "Common Mistakes in Party Food Recipes History",
+      "created_at": "2026-06-02T15:38:11.808394",
+      "image": {
+        "id": "0291347315021950a1ac1f86aaea74ac47059cff42676269bf6112f902a645d0",
+        "url": "https://picsum.photos/1125/446?random=705",
+        "alt": "Featured image for: Common Mistakes in Party Food Recipes History",
+        "width": 1125,
+        "height": 446
+      }
+    },
+    {
+      "id": 63,
+      "slug": "party-food-recipes-history-for-beginners",
+      "title": "Party Food Recipes History for Beginners",
+      "created_at": "2026-06-02T15:38:11.808429",
+      "image": {
+        "id": "0291347315021950a1ac1f86aaea74ac47059cff42676269bf6112f902a645d0",
+        "url": "https://picsum.photos/1125/446?random=705",
+        "alt": "Featured image for: Party Food Recipes History for Beginners",
+        "width": 1125,
+        "height": 446
+      }
+    },
+    {
+      "id": 64,
+      "slug": "advanced-party-food-recipes-history-techniques",
+      "title": "Advanced Party Food Recipes History Techniques",
+      "created_at": "2026-06-02T15:38:11.808462",
+      "image": {
+        "id": "e7f9ab133d130d3954a1bfcf32431be9d5944e1cc7ed8f7283f860e8dcccb585",
+        "url": "https://picsum.photos/1110/466?random=746",
+        "alt": "Featured image for: Advanced Party Food Recipes History Techniques",
+        "width": 1110,
+        "height": 466
+      }
+    }
+  ],
+  "trending-party-food-recipes": [
+    {
+      "id": 73,
+      "slug": "the-ultimate-guide-to-trending-party-food-recipes",
+      "title": "The Ultimate Guide to Trending Party Food Recipes",
+      "created_at": "2026-06-02T15:38:11.808795",
+      "image": {
+        "id": "c761c8ce006c71d9b78ef1d233bb1f6b8a8f8e595f43d16d66ff1e0333b5406d",
+        "url": "https://picsum.photos/894/411?random=555",
+        "alt": "Featured image for: The Ultimate Guide to Trending Party Food Recipes",
+        "width": 894,
+        "height": 411
+      }
+    },
+    {
+      "id": 74,
+      "slug": "trending-party-food-recipes-everything-you-need-to-know",
+      "title": "Trending Party Food Recipes: Everything You Need to Know",
+      "created_at": "2026-06-02T15:38:11.808833",
+      "image": {
+        "id": "c761c8ce006c71d9b78ef1d233bb1f6b8a8f8e595f43d16d66ff1e0333b5406d",
+        "url": "https://picsum.photos/894/411?random=555",
+        "alt": "Featured image for: Trending Party Food Recipes: Everything You Need to Know",
+        "width": 894,
+        "height": 411
+      }
+    },
+    {
+      "id": 75,
+      "slug": "understanding-trending-party-food-recipes",
+      "title": "Understanding Trending Party Food Recipes",
+      "created_at": "2026-06-02T15:38:11.808869",
+      "image": {
+        "id": "0291347315021950a1ac1f86aaea74ac47059cff42676269bf6112f902a645d0",
+        "url": "https://picsum.photos/1125/446?random=705",
+        "alt": "Featured image for: Understanding Trending Party Food Recipes",
+        "width": 1125,
+        "height": 446
+      }
+    },
+    {
+      "id": 76,
+      "slug": "trending-party-food-recipes-tips-and-best-practices",
+      "title": "Trending Party Food Recipes Tips and Best Practices",
+      "created_at": "2026-06-02T15:38:11.808904",
+      "image": {
+        "id": "0291347315021950a1ac1f86aaea74ac47059cff42676269bf6112f902a645d0",
+        "url": "https://picsum.photos/1125/446?random=705",
+        "alt": "Featured image for: Trending Party Food Recipes Tips and Best Practices",
+        "width": 1125,
+        "height": 446
+      }
+    },
+    {
+      "id": 77,
+      "slug": "the-history-of-trending-party-food-recipes",
+      "title": "The History of Trending Party Food Recipes",
+      "created_at": "2026-06-02T15:38:11.808942",
+      "image": {
+        "id": "8e561befb6759e4ff32f23af5817c5b4d7cd210a2246debc17d403d582c5dcfb",
+        "url": "https://picsum.photos/903/426?random=28",
+        "alt": "Featured image for: The History of Trending Party Food Recipes",
+        "width": 903,
+        "height": 426
+      }
+    },
+    {
+      "id": 78,
+      "slug": "trending-party-food-recipes-in-2026-current-trends",
+      "title": "Trending Party Food Recipes in 2026: Current Trends",
+      "created_at": "2026-06-02T15:38:11.808976",
+      "image": {
+        "id": "8e561befb6759e4ff32f23af5817c5b4d7cd210a2246debc17d403d582c5dcfb",
+        "url": "https://picsum.photos/903/426?random=28",
+        "alt": "Featured image for: Trending Party Food Recipes in 2026: Current Trends",
+        "width": 903,
+        "height": 426
+      }
+    },
+    {
+      "id": 79,
+      "slug": "future-of-trending-party-food-recipes",
+      "title": "Future of Trending Party Food Recipes",
+      "created_at": "2026-06-02T15:38:11.809010",
+      "image": {
+        "id": "8e561befb6759e4ff32f23af5817c5b4d7cd210a2246debc17d403d582c5dcfb",
+        "url": "https://picsum.photos/903/426?random=28",
+        "alt": "Featured image for: Future of Trending Party Food Recipes",
+        "width": 903,
+        "height": 426
+      }
+    },
+    {
+      "id": 80,
+      "slug": "common-mistakes-in-trending-party-food-recipes",
+      "title": "Common Mistakes in Trending Party Food Recipes",
+      "created_at": "2026-06-02T15:38:11.809044",
+      "image": {
+        "id": "c761c8ce006c71d9b78ef1d233bb1f6b8a8f8e595f43d16d66ff1e0333b5406d",
+        "url": "https://picsum.photos/894/411?random=555",
+        "alt": "Featured image for: Common Mistakes in Trending Party Food Recipes",
+        "width": 894,
+        "height": 411
+      }
+    },
+    {
+      "id": 81,
+      "slug": "trending-party-food-recipes-for-beginners",
+      "title": "Trending Party Food Recipes for Beginners",
+      "created_at": "2026-06-02T15:38:11.809079",
+      "image": {
+        "id": "0291347315021950a1ac1f86aaea74ac47059cff42676269bf6112f902a645d0",
+        "url": "https://picsum.photos/1125/446?random=705",
+        "alt": "Featured image for: Trending Party Food Recipes for Beginners",
+        "width": 1125,
+        "height": 446
+      }
+    },
+    {
+      "id": 82,
+      "slug": "advanced-trending-party-food-recipes-techniques",
+      "title": "Advanced Trending Party Food Recipes Techniques",
+      "created_at": "2026-06-02T15:38:11.809113",
+      "image": {
+        "id": "8e561befb6759e4ff32f23af5817c5b4d7cd210a2246debc17d403d582c5dcfb",
+        "url": "https://picsum.photos/903/426?random=28",
+        "alt": "Featured image for: Advanced Trending Party Food Recipes Techniques",
+        "width": 903,
+        "height": 426
+      }
+    }
+  ],
+  "tutorials-party-food-recipes": [
+    {
+      "id": 91,
+      "slug": "the-ultimate-guide-to-party-food-recipes-tutorials",
+      "title": "The Ultimate Guide to Party Food Recipes Tutorials",
+      "created_at": "2026-06-02T15:38:11.809716",
+      "image": {
+        "id": "9d2441344bf0e90770098be825c532f81cfd7af672a7b87277ddd9e3462b0a0b",
+        "url": "https://picsum.photos/893/554?random=129",
+        "alt": "Featured image for: The Ultimate Guide to Party Food Recipes Tutorials",
+        "width": 893,
+        "height": 554
+      }
+    },
+    {
+      "id": 92,
+      "slug": "party-food-recipes-tutorials-everything-you-need-to-know",
+      "title": "Party Food Recipes Tutorials: Everything You Need to Know",
+      "created_at": "2026-06-02T15:38:11.809753",
+      "image": {
+        "id": "0291347315021950a1ac1f86aaea74ac47059cff42676269bf6112f902a645d0",
+        "url": "https://picsum.photos/1125/446?random=705",
+        "alt": "Featured image for: Party Food Recipes Tutorials: Everything You Need to Know",
+        "width": 1125,
+        "height": 446
+      }
+    },
+    {
+      "id": 93,
+      "slug": "understanding-party-food-recipes-tutorials",
+      "title": "Understanding Party Food Recipes Tutorials",
+      "created_at": "2026-06-02T15:38:11.809792",
+      "image": {
+        "id": "8e561befb6759e4ff32f23af5817c5b4d7cd210a2246debc17d403d582c5dcfb",
+        "url": "https://picsum.photos/903/426?random=28",
+        "alt": "Featured image for: Understanding Party Food Recipes Tutorials",
+        "width": 903,
+        "height": 426
+      }
+    },
+    {
+      "id": 94,
+      "slug": "party-food-recipes-tutorials-tips-and-best-practices",
+      "title": "Party Food Recipes Tutorials Tips and Best Practices",
+      "created_at": "2026-06-02T15:38:11.809826",
+      "image": {
+        "id": "0291347315021950a1ac1f86aaea74ac47059cff42676269bf6112f902a645d0",
+        "url": "https://picsum.photos/1125/446?random=705",
+        "alt": "Featured image for: Party Food Recipes Tutorials Tips and Best Practices",
+        "width": 1125,
+        "height": 446
+      }
+    },
+    {
+      "id": 95,
+      "slug": "the-history-of-party-food-recipes-tutorials",
+      "title": "The History of Party Food Recipes Tutorials",
+      "created_at": "2026-06-02T15:38:11.809860",
+      "image": {
+        "id": "9d2441344bf0e90770098be825c532f81cfd7af672a7b87277ddd9e3462b0a0b",
+        "url": "https://picsum.photos/893/554?random=129",
+        "alt": "Featured image for: The History of Party Food Recipes Tutorials",
+        "width": 893,
+        "height": 554
+      }
+    },
+    {
+      "id": 96,
+      "slug": "party-food-recipes-tutorials-in-2026-current-trends",
+      "title": "Party Food Recipes Tutorials in 2026: Current Trends",
+      "created_at": "2026-06-02T15:38:11.809893",
+      "image": {
+        "id": "0291347315021950a1ac1f86aaea74ac47059cff42676269bf6112f902a645d0",
+        "url": "https://picsum.photos/1125/446?random=705",
+        "alt": "Featured image for: Party Food Recipes Tutorials in 2026: Current Trends",
+        "width": 1125,
+        "height": 446
+      }
+    },
+    {
+      "id": 97,
+      "slug": "future-of-party-food-recipes-tutorials",
+      "title": "Future of Party Food Recipes Tutorials",
+      "created_at": "2026-06-02T15:38:11.809928",
+      "image": {
+        "id": "c761c8ce006c71d9b78ef1d233bb1f6b8a8f8e595f43d16d66ff1e0333b5406d",
+        "url": "https://picsum.photos/894/411?random=555",
+        "alt": "Featured image for: Future of Party Food Recipes Tutorials",
+        "width": 894,
+        "height": 411
+      }
+    },
+    {
+      "id": 98,
+      "slug": "common-mistakes-in-party-food-recipes-tutorials",
+      "title": "Common Mistakes in Party Food Recipes Tutorials",
+      "created_at": "2026-06-02T15:38:11.809960",
+      "image": {
+        "id": "0291347315021950a1ac1f86aaea74ac47059cff42676269bf6112f902a645d0",
+        "url": "https://picsum.photos/1125/446?random=705",
+        "alt": "Featured image for: Common Mistakes in Party Food Recipes Tutorials",
+        "width": 1125,
+        "height": 446
+      }
+    },
+    {
+      "id": 99,
+      "slug": "party-food-recipes-tutorials-for-beginners",
+      "title": "Party Food Recipes Tutorials for Beginners",
+      "created_at": "2026-06-02T15:38:11.809992",
+      "image": {
+        "id": "c761c8ce006c71d9b78ef1d233bb1f6b8a8f8e595f43d16d66ff1e0333b5406d",
+        "url": "https://picsum.photos/894/411?random=555",
+        "alt": "Featured image for: Party Food Recipes Tutorials for Beginners",
+        "width": 894,
+        "height": 411
+      }
+    },
+    {
+      "id": 100,
+      "slug": "advanced-party-food-recipes-tutorials-techniques",
+      "title": "Advanced Party Food Recipes Tutorials Techniques",
+      "created_at": "2026-06-02T15:38:11.810024",
+      "image": {
+        "id": "0291347315021950a1ac1f86aaea74ac47059cff42676269bf6112f902a645d0",
+        "url": "https://picsum.photos/1125/446?random=705",
+        "alt": "Featured image for: Advanced Party Food Recipes Tutorials Techniques",
+        "width": 1125,
+        "height": 446
+      }
+    }
+  ]
+}
